@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\bin\Debug\net8.0\Say Hello With C#.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\bin\Debug\net8.0\Say Hello With C#.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\bin\Debug\net8.0\Say Hello With C#.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\bin\Debug\net8.0\Say Hello With C#.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\bin\Debug\net8.0\Say Hello With C#.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\obj\Debug\net8.0\Say Hello With C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\obj\Debug\net8.0\Say Hello With C#.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\obj\Debug\net8.0\Say Hello With C#.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\obj\Debug\net8.0\Say Hello With C#.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\obj\Debug\net8.0\Say Hello With C#.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\obj\Debug\net8.0\refint\Say Hello With C#.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\obj\Debug\net8.0\Say Hello With C#.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\obj\Debug\net8.0\Say Hello With C#.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Say Hello With C#\obj\Debug\net8.0\ref\Say Hello With C#.dll
