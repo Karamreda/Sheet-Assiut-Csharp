@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\bin\Debug\net8.0\O. Calculator.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\bin\Debug\net8.0\O. Calculator.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\bin\Debug\net8.0\O. Calculator.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\bin\Debug\net8.0\O. Calculator.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\bin\Debug\net8.0\O. Calculator.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\obj\Debug\net8.0\O. Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\obj\Debug\net8.0\O. Calculator.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\obj\Debug\net8.0\O. Calculator.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\obj\Debug\net8.0\O. Calculator.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\obj\Debug\net8.0\O. Calculator.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\obj\Debug\net8.0\refint\O. Calculator.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\obj\Debug\net8.0\O. Calculator.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\obj\Debug\net8.0\O. Calculator.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\O. Calculator\obj\Debug\net8.0\ref\O. Calculator.dll
