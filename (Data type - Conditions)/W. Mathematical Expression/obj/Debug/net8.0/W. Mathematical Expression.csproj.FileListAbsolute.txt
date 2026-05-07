@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\bin\Debug\net8.0\W. Mathematical Expression.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\bin\Debug\net8.0\W. Mathematical Expression.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\bin\Debug\net8.0\W. Mathematical Expression.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\bin\Debug\net8.0\W. Mathematical Expression.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\bin\Debug\net8.0\W. Mathematical Expression.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\obj\Debug\net8.0\W. Mathematical Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\obj\Debug\net8.0\W. Mathematical Expression.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\obj\Debug\net8.0\W. Mathematical Expression.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\obj\Debug\net8.0\W. Mathematical Expression.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\obj\Debug\net8.0\W. Mathematical Expression.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\obj\Debug\net8.0\refint\W. Mathematical Expression.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\obj\Debug\net8.0\W. Mathematical Expression.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\obj\Debug\net8.0\W. Mathematical Expression.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\W. Mathematical Expression\obj\Debug\net8.0\ref\W. Mathematical Expression.dll
