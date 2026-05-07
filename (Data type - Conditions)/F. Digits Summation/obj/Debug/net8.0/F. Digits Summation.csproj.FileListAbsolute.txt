@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\bin\Debug\net8.0\F. Digits Summation.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\bin\Debug\net8.0\F. Digits Summation.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\bin\Debug\net8.0\F. Digits Summation.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\bin\Debug\net8.0\F. Digits Summation.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\bin\Debug\net8.0\F. Digits Summation.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\obj\Debug\net8.0\F. Digits Summation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\obj\Debug\net8.0\F. Digits Summation.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\obj\Debug\net8.0\F. Digits Summation.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\obj\Debug\net8.0\F. Digits Summation.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\obj\Debug\net8.0\F. Digits Summation.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\obj\Debug\net8.0\refint\F. Digits Summation.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\obj\Debug\net8.0\F. Digits Summation.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\obj\Debug\net8.0\F. Digits Summation.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\F. Digits Summation\obj\Debug\net8.0\ref\F. Digits Summation.dll

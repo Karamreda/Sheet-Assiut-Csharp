@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\bin\Debug\net8.0\H. Two numbers.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\bin\Debug\net8.0\H. Two numbers.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\bin\Debug\net8.0\H. Two numbers.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\bin\Debug\net8.0\H. Two numbers.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\bin\Debug\net8.0\H. Two numbers.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\obj\Debug\net8.0\H. Two numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\obj\Debug\net8.0\H. Two numbers.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\obj\Debug\net8.0\H. Two numbers.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\obj\Debug\net8.0\H. Two numbers.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\obj\Debug\net8.0\H. Two numbers.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\obj\Debug\net8.0\refint\H. Two numbers.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\obj\Debug\net8.0\H. Two numbers.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\obj\Debug\net8.0\H. Two numbers.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\H. Two numbers\obj\Debug\net8.0\ref\H. Two numbers.dll
