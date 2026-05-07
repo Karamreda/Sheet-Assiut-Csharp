@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\bin\Debug\net8.0\Y. The last 2 digits.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\bin\Debug\net8.0\Y. The last 2 digits.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\bin\Debug\net8.0\Y. The last 2 digits.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\bin\Debug\net8.0\Y. The last 2 digits.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\bin\Debug\net8.0\Y. The last 2 digits.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\obj\Debug\net8.0\Y. The last 2 digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\obj\Debug\net8.0\Y. The last 2 digits.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\obj\Debug\net8.0\Y. The last 2 digits.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\obj\Debug\net8.0\Y. The last 2 digits.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\obj\Debug\net8.0\Y. The last 2 digits.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\obj\Debug\net8.0\refint\Y. The last 2 digits.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\obj\Debug\net8.0\Y. The last 2 digits.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\obj\Debug\net8.0\Y. The last 2 digits.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\Y. The last 2 digits\obj\Debug\net8.0\ref\Y. The last 2 digits.dll
