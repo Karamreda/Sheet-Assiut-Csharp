@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\bin\Debug\net8.0\E. Area of a Circle.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\bin\Debug\net8.0\E. Area of a Circle.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\bin\Debug\net8.0\E. Area of a Circle.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\bin\Debug\net8.0\E. Area of a Circle.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\bin\Debug\net8.0\E. Area of a Circle.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\obj\Debug\net8.0\E. Area of a Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\obj\Debug\net8.0\E. Area of a Circle.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\obj\Debug\net8.0\E. Area of a Circle.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\obj\Debug\net8.0\E. Area of a Circle.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\obj\Debug\net8.0\E. Area of a Circle.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\obj\Debug\net8.0\refint\E. Area of a Circle.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\obj\Debug\net8.0\E. Area of a Circle.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\obj\Debug\net8.0\E. Area of a Circle.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Data type - Conditions)\E. Area of a Circle\obj\Debug\net8.0\ref\E. Area of a Circle.dll
