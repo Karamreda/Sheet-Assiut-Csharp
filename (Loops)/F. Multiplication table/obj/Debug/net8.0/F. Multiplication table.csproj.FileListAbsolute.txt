@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\bin\Debug\net8.0\F. Multiplication table.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\bin\Debug\net8.0\F. Multiplication table.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\bin\Debug\net8.0\F. Multiplication table.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\bin\Debug\net8.0\F. Multiplication table.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\bin\Debug\net8.0\F. Multiplication table.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\obj\Debug\net8.0\refint\F. Multiplication table.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\obj\Debug\net8.0\F. Multiplication table.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\F. Multiplication table\obj\Debug\net8.0\ref\F. Multiplication table.dll
