@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\bin\Debug\net8.0\C. Even, Odd, Positive and Negative.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\bin\Debug\net8.0\C. Even, Odd, Positive and Negative.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\bin\Debug\net8.0\C. Even, Odd, Positive and Negative.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\bin\Debug\net8.0\C. Even, Odd, Positive and Negative.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\bin\Debug\net8.0\C. Even, Odd, Positive and Negative.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\refint\C. Even, Odd, Positive and Negative.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\C. Even, Odd, Positive and Negative.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net8.0\ref\C. Even, Odd, Positive and Negative.dll

@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\bin\Debug\net8.0\B. Even Numbers.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\bin\Debug\net8.0\B. Even Numbers.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\bin\Debug\net8.0\B. Even Numbers.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\bin\Debug\net8.0\B. Even Numbers.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\bin\Debug\net8.0\B. Even Numbers.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\obj\Debug\net8.0\refint\B. Even Numbers.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\obj\Debug\net8.0\B. Even Numbers.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\B. Even Numbers\obj\Debug\net8.0\ref\B. Even Numbers.dll
