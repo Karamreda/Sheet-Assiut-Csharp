@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\bin\Debug\net8.0\H. One Prime.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\bin\Debug\net8.0\H. One Prime.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\bin\Debug\net8.0\H. One Prime.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\bin\Debug\net8.0\H. One Prime.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\bin\Debug\net8.0\H. One Prime.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\obj\Debug\net8.0\H. One Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\obj\Debug\net8.0\H. One Prime.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\obj\Debug\net8.0\H. One Prime.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\obj\Debug\net8.0\H. One Prime.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\obj\Debug\net8.0\H. One Prime.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\obj\Debug\net8.0\refint\H. One Prime.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\obj\Debug\net8.0\H. One Prime.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\obj\Debug\net8.0\H. One Prime.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\H. One Prime\obj\Debug\net8.0\ref\H. One Prime.dll
