@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\bin\Debug\net8.0\M. Lucky Numbers.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\bin\Debug\net8.0\M. Lucky Numbers.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\bin\Debug\net8.0\M. Lucky Numbers.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\bin\Debug\net8.0\M. Lucky Numbers.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\bin\Debug\net8.0\M. Lucky Numbers.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\obj\Debug\net8.0\refint\M. Lucky Numbers.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\obj\Debug\net8.0\M. Lucky Numbers.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\M. Lucky Numbers\obj\Debug\net8.0\ref\M. Lucky Numbers.dll
