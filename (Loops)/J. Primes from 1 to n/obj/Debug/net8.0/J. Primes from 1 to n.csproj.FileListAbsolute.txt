@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\bin\Debug\net8.0\J. Primes from 1 to n.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\bin\Debug\net8.0\J. Primes from 1 to n.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\bin\Debug\net8.0\J. Primes from 1 to n.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\bin\Debug\net8.0\J. Primes from 1 to n.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\bin\Debug\net8.0\J. Primes from 1 to n.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\obj\Debug\net8.0\J. Primes from 1 to n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\obj\Debug\net8.0\J. Primes from 1 to n.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\obj\Debug\net8.0\J. Primes from 1 to n.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\obj\Debug\net8.0\J. Primes from 1 to n.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\obj\Debug\net8.0\J. Primes from 1 to n.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\obj\Debug\net8.0\refint\J. Primes from 1 to n.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\obj\Debug\net8.0\J. Primes from 1 to n.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\obj\Debug\net8.0\J. Primes from 1 to n.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\J. Primes from 1 to n\obj\Debug\net8.0\ref\J. Primes from 1 to n.dll
