@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\bin\Debug\net8.0\N. Numbers Histogram.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\bin\Debug\net8.0\N. Numbers Histogram.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\bin\Debug\net8.0\N. Numbers Histogram.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\bin\Debug\net8.0\N. Numbers Histogram.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\bin\Debug\net8.0\N. Numbers Histogram.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\obj\Debug\net8.0\refint\N. Numbers Histogram.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\obj\Debug\net8.0\N. Numbers Histogram.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\N. Numbers Histogram\obj\Debug\net8.0\ref\N. Numbers Histogram.dll
