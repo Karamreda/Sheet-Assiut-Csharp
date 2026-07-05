@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\bin\Debug\net8.0\D. Positions in array.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\bin\Debug\net8.0\D. Positions in array.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\bin\Debug\net8.0\D. Positions in array.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\bin\Debug\net8.0\D. Positions in array.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\bin\Debug\net8.0\D. Positions in array.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\obj\Debug\net8.0\D. Positions in array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\obj\Debug\net8.0\D. Positions in array.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\obj\Debug\net8.0\D. Positions in array.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\obj\Debug\net8.0\D. Positions in array.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\obj\Debug\net8.0\D. Positions in array.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\obj\Debug\net8.0\refint\D. Positions in array.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\obj\Debug\net8.0\D. Positions in array.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\obj\Debug\net8.0\D. Positions in array.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Arrays)\D. Positions in array\obj\Debug\net8.0\ref\D. Positions in array.dll
