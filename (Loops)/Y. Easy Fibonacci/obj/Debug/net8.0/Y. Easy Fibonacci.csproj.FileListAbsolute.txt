@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\bin\Debug\net8.0\Y. Easy Fibonacci.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\bin\Debug\net8.0\Y. Easy Fibonacci.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\bin\Debug\net8.0\Y. Easy Fibonacci.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\bin\Debug\net8.0\Y. Easy Fibonacci.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\bin\Debug\net8.0\Y. Easy Fibonacci.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\obj\Debug\net8.0\Y. Easy Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\obj\Debug\net8.0\Y. Easy Fibonacci.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\obj\Debug\net8.0\Y. Easy Fibonacci.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\obj\Debug\net8.0\Y. Easy Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\obj\Debug\net8.0\Y. Easy Fibonacci.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\obj\Debug\net8.0\refint\Y. Easy Fibonacci.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\obj\Debug\net8.0\Y. Easy Fibonacci.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\obj\Debug\net8.0\Y. Easy Fibonacci.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Y. Easy Fibonacci\obj\Debug\net8.0\ref\Y. Easy Fibonacci.dll
