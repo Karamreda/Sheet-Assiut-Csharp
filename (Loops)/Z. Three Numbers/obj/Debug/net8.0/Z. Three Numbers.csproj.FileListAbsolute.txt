@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\bin\Debug\net8.0\Z. Three Numbers.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\bin\Debug\net8.0\Z. Three Numbers.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\bin\Debug\net8.0\Z. Three Numbers.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\bin\Debug\net8.0\Z. Three Numbers.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\bin\Debug\net8.0\Z. Three Numbers.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\obj\Debug\net8.0\Z. Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\obj\Debug\net8.0\Z. Three Numbers.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\obj\Debug\net8.0\Z. Three Numbers.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\obj\Debug\net8.0\Z. Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\obj\Debug\net8.0\Z. Three Numbers.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\obj\Debug\net8.0\refint\Z. Three Numbers.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\obj\Debug\net8.0\Z. Three Numbers.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\obj\Debug\net8.0\Z. Three Numbers.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Loops)\Z. Three Numbers\obj\Debug\net8.0\ref\Z. Three Numbers.dll
