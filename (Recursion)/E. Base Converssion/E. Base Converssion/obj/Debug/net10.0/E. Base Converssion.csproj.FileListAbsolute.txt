@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\bin\Debug\net10.0\E. Base Converssion.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\bin\Debug\net10.0\E. Base Converssion.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\bin\Debug\net10.0\E. Base Converssion.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\bin\Debug\net10.0\E. Base Converssion.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\bin\Debug\net10.0\E. Base Converssion.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\obj\Debug\net10.0\E. Base Converssion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\obj\Debug\net10.0\E. Base Converssion.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\obj\Debug\net10.0\E. Base Converssion.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\obj\Debug\net10.0\E. Base Converssion.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\obj\Debug\net10.0\E. Base Converssion.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\obj\Debug\net10.0\refint\E. Base Converssion.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\obj\Debug\net10.0\E. Base Converssion.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\obj\Debug\net10.0\E. Base Converssion.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\E. Base Converssion\E. Base Converssion\obj\Debug\net10.0\ref\E. Base Converssion.dll
