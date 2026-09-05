@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\bin\Debug\net10.0\F. Print Even Indices.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\bin\Debug\net10.0\F. Print Even Indices.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\bin\Debug\net10.0\F. Print Even Indices.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\bin\Debug\net10.0\F. Print Even Indices.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\bin\Debug\net10.0\F. Print Even Indices.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\obj\Debug\net10.0\F. Print Even Indices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\obj\Debug\net10.0\F. Print Even Indices.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\obj\Debug\net10.0\F. Print Even Indices.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\obj\Debug\net10.0\F. Print Even Indices.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\obj\Debug\net10.0\F. Print Even Indices.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\obj\Debug\net10.0\refint\F. Print Even Indices.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\obj\Debug\net10.0\F. Print Even Indices.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\obj\Debug\net10.0\F. Print Even Indices.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\F. Print Even Indices\F. Print Even Indices\obj\Debug\net10.0\ref\F. Print Even Indices.dll
