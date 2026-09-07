@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\bin\Debug\net10.0\C. Print from N to 1.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\bin\Debug\net10.0\C. Print from N to 1.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\bin\Debug\net10.0\C. Print from N to 1.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\bin\Debug\net10.0\C. Print from N to 1.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\bin\Debug\net10.0\C. Print from N to 1.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\obj\Debug\net10.0\C. Print from N to 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\obj\Debug\net10.0\C. Print from N to 1.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\obj\Debug\net10.0\C. Print from N to 1.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\obj\Debug\net10.0\C. Print from N to 1.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\obj\Debug\net10.0\C. Print from N to 1.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\obj\Debug\net10.0\refint\C. Print from N to 1.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\obj\Debug\net10.0\C. Print from N to 1.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\obj\Debug\net10.0\C. Print from N to 1.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\C. Print from N to 1\C. Print from N to 1\obj\Debug\net10.0\ref\C. Print from N to 1.dll
