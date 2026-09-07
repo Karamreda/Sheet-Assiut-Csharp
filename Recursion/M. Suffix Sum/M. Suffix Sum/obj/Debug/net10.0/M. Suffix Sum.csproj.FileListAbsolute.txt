@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\bin\Debug\net10.0\M. Suffix Sum.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\bin\Debug\net10.0\M. Suffix Sum.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\bin\Debug\net10.0\M. Suffix Sum.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\bin\Debug\net10.0\M. Suffix Sum.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\bin\Debug\net10.0\M. Suffix Sum.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\obj\Debug\net10.0\M. Suffix Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\obj\Debug\net10.0\M. Suffix Sum.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\obj\Debug\net10.0\M. Suffix Sum.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\obj\Debug\net10.0\M. Suffix Sum.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\obj\Debug\net10.0\M. Suffix Sum.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\obj\Debug\net10.0\refint\M. Suffix Sum.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\obj\Debug\net10.0\M. Suffix Sum.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\obj\Debug\net10.0\M. Suffix Sum.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\M. Suffix Sum\M. Suffix Sum\obj\Debug\net10.0\ref\M. Suffix Sum.dll
