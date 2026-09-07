@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\bin\Debug\net10.0\G. Pyramid.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\bin\Debug\net10.0\G. Pyramid.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\bin\Debug\net10.0\G. Pyramid.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\bin\Debug\net10.0\G. Pyramid.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\bin\Debug\net10.0\G. Pyramid.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\obj\Debug\net10.0\G. Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\obj\Debug\net10.0\G. Pyramid.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\obj\Debug\net10.0\G. Pyramid.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\obj\Debug\net10.0\G. Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\obj\Debug\net10.0\G. Pyramid.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\obj\Debug\net10.0\refint\G. Pyramid.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\obj\Debug\net10.0\G. Pyramid.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\obj\Debug\net10.0\G. Pyramid.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\G. Pyramid\G. Pyramid\obj\Debug\net10.0\ref\G. Pyramid.dll

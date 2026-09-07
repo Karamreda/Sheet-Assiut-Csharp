@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\bin\Debug\net10.0\I. Count Vowels.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\bin\Debug\net10.0\I. Count Vowels.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\bin\Debug\net10.0\I. Count Vowels.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\bin\Debug\net10.0\I. Count Vowels.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\bin\Debug\net10.0\I. Count Vowels.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\obj\Debug\net10.0\I. Count Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\obj\Debug\net10.0\I. Count Vowels.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\obj\Debug\net10.0\I. Count Vowels.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\obj\Debug\net10.0\I. Count Vowels.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\obj\Debug\net10.0\I. Count Vowels.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\obj\Debug\net10.0\refint\I. Count Vowels.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\obj\Debug\net10.0\I. Count Vowels.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\obj\Debug\net10.0\I. Count Vowels.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\I. Count Vowels\I. Count Vowels\obj\Debug\net10.0\ref\I. Count Vowels.dll
