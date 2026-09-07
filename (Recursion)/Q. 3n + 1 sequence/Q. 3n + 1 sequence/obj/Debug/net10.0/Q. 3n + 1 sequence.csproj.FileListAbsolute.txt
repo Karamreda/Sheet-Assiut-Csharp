@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\bin\Debug\net10.0\Q. 3n + 1 sequence.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\bin\Debug\net10.0\Q. 3n + 1 sequence.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\bin\Debug\net10.0\Q. 3n + 1 sequence.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\bin\Debug\net10.0\Q. 3n + 1 sequence.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\bin\Debug\net10.0\Q. 3n + 1 sequence.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\obj\Debug\net10.0\Q. 3n + 1 sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\obj\Debug\net10.0\Q. 3n + 1 sequence.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\obj\Debug\net10.0\Q. 3n + 1 sequence.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\obj\Debug\net10.0\Q. 3n + 1 sequence.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\obj\Debug\net10.0\Q. 3n + 1 sequence.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\obj\Debug\net10.0\refint\Q. 3n + 1 sequence.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\obj\Debug\net10.0\Q. 3n + 1 sequence.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\obj\Debug\net10.0\Q. 3n + 1 sequence.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\Q. 3n + 1 sequence\Q. 3n + 1 sequence\obj\Debug\net10.0\ref\Q. 3n + 1 sequence.dll

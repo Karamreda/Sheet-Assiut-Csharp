@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\bin\Debug\net10.0\P. Log2.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\bin\Debug\net10.0\P. Log2.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\bin\Debug\net10.0\P. Log2.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\bin\Debug\net10.0\P. Log2.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\bin\Debug\net10.0\P. Log2.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\obj\Debug\net10.0\P. Log2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\obj\Debug\net10.0\P. Log2.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\obj\Debug\net10.0\P. Log2.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\obj\Debug\net10.0\P. Log2.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\obj\Debug\net10.0\P. Log2.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\obj\Debug\net10.0\refint\P. Log2.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\obj\Debug\net10.0\P. Log2.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\obj\Debug\net10.0\P. Log2.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\P. Log2\P. Log2\obj\Debug\net10.0\ref\P. Log2.dll
