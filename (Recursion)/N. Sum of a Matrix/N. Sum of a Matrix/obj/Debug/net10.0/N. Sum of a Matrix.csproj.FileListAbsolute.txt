@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\bin\Debug\net10.0\N. Sum of a Matrix.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\bin\Debug\net10.0\N. Sum of a Matrix.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\bin\Debug\net10.0\N. Sum of a Matrix.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\bin\Debug\net10.0\N. Sum of a Matrix.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\bin\Debug\net10.0\N. Sum of a Matrix.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\obj\Debug\net10.0\N. Sum of a Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\obj\Debug\net10.0\N. Sum of a Matrix.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\obj\Debug\net10.0\N. Sum of a Matrix.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\obj\Debug\net10.0\N. Sum of a Matrix.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\obj\Debug\net10.0\N. Sum of a Matrix.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\obj\Debug\net10.0\refint\N. Sum of a Matrix.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\obj\Debug\net10.0\N. Sum of a Matrix.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\obj\Debug\net10.0\N. Sum of a Matrix.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\N. Sum of a Matrix\N. Sum of a Matrix\obj\Debug\net10.0\ref\N. Sum of a Matrix.dll
