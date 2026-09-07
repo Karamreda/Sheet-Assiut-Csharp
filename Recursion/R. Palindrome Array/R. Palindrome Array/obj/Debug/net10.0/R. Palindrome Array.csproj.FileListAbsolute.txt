@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\bin\Debug\net10.0\R. Palindrome Array.exe
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\bin\Debug\net10.0\R. Palindrome Array.deps.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\bin\Debug\net10.0\R. Palindrome Array.runtimeconfig.json
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\bin\Debug\net10.0\R. Palindrome Array.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\bin\Debug\net10.0\R. Palindrome Array.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\obj\Debug\net10.0\R. Palindrome Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\obj\Debug\net10.0\R. Palindrome Array.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\obj\Debug\net10.0\R. Palindrome Array.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\obj\Debug\net10.0\R. Palindrome Array.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\obj\Debug\net10.0\R. Palindrome Array.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\obj\Debug\net10.0\refint\R. Palindrome Array.dll
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\obj\Debug\net10.0\R. Palindrome Array.pdb
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\obj\Debug\net10.0\R. Palindrome Array.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Sheet Asut\(Recursion)\R. Palindrome Array\R. Palindrome Array\obj\Debug\net10.0\ref\R. Palindrome Array.dll
